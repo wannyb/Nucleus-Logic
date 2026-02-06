@@ -1,6 +1,6 @@
 # Nucleus-Logic
 An Agentic RAG framework for automated financial auditing and logic verification using Azure OpenAI.
-# Nucleus Logic (原核逻辑) 
+# Nucleus Logic
 > **Pioneering "Digital Forensic" for Financial Intelligence.**
 
 ## 🌐 Project Overview
