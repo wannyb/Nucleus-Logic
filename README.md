@@ -16,7 +16,7 @@ Nucleus Logic is an advanced **Agentic RAG (Retrieval-Augmented Generation)** pl
 - **AI/LLM**: Azure OpenAI (GPT-4o / GPT-4 Turbo)
 - **Orchestration**: n8n, Python (FastAPI), RGA，KG
 - **Vector DB**: Azure AI Search
-- **Infrastructure**: Docker, Microsoft Azure
+- **Infrastructure**: Docker, Microsoft Azure, Ubuntu
 
 ## 📅 Roadmap
 - [x] V1.1 Core Logic Logic Blueprint completed.
